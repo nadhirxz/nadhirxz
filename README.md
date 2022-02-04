@@ -10,6 +10,8 @@
   <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadhirxz&theme=dark&date_format=d%2fm%2f[Y]" />
 </p>
 
+### Weekly development breakdown
+
 <!--START_SECTION:waka-->
 ```text
 TypeScript   7 hrs 1 min     ███████████████▓░░░░░░░░░   62.17 % 
