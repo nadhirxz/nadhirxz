@@ -9,3 +9,6 @@
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=nadhirxz&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
   <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadhirxz&theme=dark&date_format=d%2fm%2f[Y]" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
