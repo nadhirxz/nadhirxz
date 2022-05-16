@@ -8,7 +8,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 08 May 2022 - To: 15 May 2022
+
+PHP          16 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.75 %
+TypeScript   7 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.25 %
 ```
 
 <!--END_SECTION:waka-->
