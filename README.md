@@ -24,7 +24,7 @@ CSS          4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <p align="center">
   <img align="center"
-    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nadhirxz&badges=2&branding=false&show-avatar=false&style=--header-bg-color:%23000;--border-radius:0px"
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nadhirxz&badges=3&branding=false&show-avatar=false&style=--header-bg-color:%23000;--border-radius:0px"
   />
 </p>
 
