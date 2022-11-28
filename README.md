@@ -1,7 +1,4 @@
 # Hi 👋, I'm Nadhir
-:computer: A fullstack web developer
-<br/>:mortar_board: Master's student in Software Engineering at <a href="https://www.usthb.dz/">USTHB</a>
-
 
 ## Weekly development breakdown
 
