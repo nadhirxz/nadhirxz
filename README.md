@@ -5,11 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-TypeScript   1 hr 5 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.95 %
-JSON         0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.59 %
-JavaScript   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
