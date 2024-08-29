@@ -1,4 +1,6 @@
-# Hi 👋, I'm Nadhir
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nadhirxe/count.svg" alt="hit counter" align="center">
+</div>
 
 ## Weekly development breakdown
 
@@ -15,15 +17,6 @@ SQL          1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
-<details>
-  <summary>:zap: CodersRank Stats</summary>
-  <p align="center">
-    <img align="center"
-      src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nadhirxz&badges=3&branding=false&show-avatar=false&style=--header-bg-color:%23000;--border-radius:0px"
-    />
-  </p>
-</details>
 
 <details>
   <summary>:zap: GitHub stats</summary>
